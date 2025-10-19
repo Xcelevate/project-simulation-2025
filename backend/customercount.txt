@@ -1,1 +1,2 @@
 The number of customers is 50,000
+The number of customer is increased 60,000
