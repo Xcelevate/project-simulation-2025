@@ -1,15 +1,12 @@
-<<<<<<< HEAD
+
 G 19-10-2025 11:53 doing something for my purpose
 Chennai,TamilNadu
-=======
+
 R
 19.10.2025
 11.54 a.m
 trying to understand merge conflict
 G 19-10-2025 11:53 doing something for my purpose
-<<<<<<< HEAD
->>>>>>> d5e77ea7c2339a3494f7b305eaade031505cea86
-=======
 
 Villupuram Tamilnadu
->>>>>>> 31d0a99837ce85dca6f7c4e65dafb7268dcf4334
+
