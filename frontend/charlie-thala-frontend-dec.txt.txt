@@ -2,8 +2,17 @@
 +----------------------+----------------------------------------------+
 | Field                | Details                                      |
 +----------------------+----------------------------------------------+
-| Initials             | P.S.                                         |
-| Date & Time          | 2025-12-02 09:15:00 +0530                    |
+| Initials             | Dinesh                                       |
+| Date & Time          | 2025-12-02 12:22:00 +0530                    |
+| Email                | xcelevate@git.com                            |
+| Activity             | Delivered frontend coordinate change for     |
+|                      | Thala (height/weight/gender UI).             |
++----------------------+----------------------------------------------+
++----------------------+----------------------------------------------+
+| Field                 | Details                                     |
++----------------------+----------------------------------------------+
+| Initials             | Arunachalam                                  |
+| Date & Time          | 2025-12-02 12:23:00 +0530                    |
 | Email                | xcelevate@git.com                            |
 | Activity             | Delivered frontend coordinate change for     |
 |                      | Thala (height/weight/gender UI).             |
@@ -11,9 +20,9 @@
 +----------------------+----------------------------------------------+
 | Field                | Details                                      |
 +----------------------+----------------------------------------------+
-| Initials             | M.A                                          |
-| Date & Time          | 2025-12-02 12:13:30 +0530                    |
-| Email                | akshaya.2503@xcelevate.com                   |
+| Initials             | Akshya                                       |
+| Date & Time          | 2025-12-02 12:24:00 +0530                    |
+| Email                | xcelevate@git.com                            |
 | Activity             | Delivered frontend coordinate change for     |
-|                      | Thala (password/gender).              |
+|                      | Thala (height/weight/gender UI).             |
 +----------------------+----------------------------------------------+
