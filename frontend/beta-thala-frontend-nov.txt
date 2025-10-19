@@ -2,11 +2,16 @@
 Initial : AJ
 Date: 19-08-2025
 Time : 11.40 
-Activity : I Added my details 
+Activity :Alsamath Added my details 
 
-=======
+
 initial : V N 
 date : 19/10/2025
 time : 11:37
 activity : vettri added his details
->>>>>>> 293354539af8d27767fb2112b03feb760da053d5
+
+
+Initial:VS
+date:19/10/2025
+time:12:00
+activity:vigneshwaran added his details
