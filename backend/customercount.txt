@@ -1,1 +1,1 @@
-The number of customers is 50,000
+The count of customers increased to 75,000 in December 
