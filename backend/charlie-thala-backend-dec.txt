@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hii this is Mudassir and I made the changes of the height, weight, gender with as initial, date and time.
-=======
 Hi I am Sana. I changed height, gender, weight, xyz.
->>>>>>> 765953a8e00f497b8ae0f3ae512eb6db97e4220a
