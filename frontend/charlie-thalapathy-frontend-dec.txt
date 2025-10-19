@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-19-Oct-2025 12:10
-I am working on conflict.
-=======
-Initial : JD
-Date : 19/10/2025
-Time : 12:01PM
->>>>>>> 56c5bb4b3d5e3227f6395986e66e0dada0e6c83c
+19-Oct-2025 11:40
+I am working on merge conflicts.
