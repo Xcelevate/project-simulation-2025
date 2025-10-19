@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 3. Rama subra maniyan 
 
 
@@ -10,5 +10,5 @@
 
 
 
->>>>>>> d07f728d2a877f5ce5e545b1597605d572c4251d
->>>>>>> cc0fe404df921c563282603ab502c8b46ee2db27
+
+
