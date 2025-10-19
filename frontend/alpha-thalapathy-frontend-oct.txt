@@ -1,4 +1,5 @@
-R 
+R
 19.10.2025
 11.54 a.m
 trying to understand merge conflict
+G 19-10-2025 11:53 doing something for my purpose
