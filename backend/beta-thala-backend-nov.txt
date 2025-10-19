@@ -1,0 +1,10 @@
+
+Initials:L.S
+Date:19-10-2025
+Time:11:38
+Activity: Updated backend logic for company domain integration.
+
+Initials: RK
+Date: 19-10-2025
+Time: 11:37
+Activity: Added backend logic to store and update user designation.
