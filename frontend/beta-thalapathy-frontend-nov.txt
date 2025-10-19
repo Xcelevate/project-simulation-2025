@@ -1,4 +1,9 @@
+Initials: SV
+Date: 19-11-2025
+Time: 11:40 AM
+Acrivity: Updated frontend module to capture user's company city and company state.
+
 Initial: RS
 Date: 19 Nov 2025
 Time: 11:40
-Activity: I added frontend module details:
+Activity: I added frontend module details
