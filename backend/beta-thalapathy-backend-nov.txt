@@ -1,4 +1,15 @@
+
+initial = rd
+Date : 19-10-2025,
+Time : 11:38, 
+
+Created this file with initial date and time to handle the merge conflict
+Learning how to solve merge conflict when having same name file
+
+
+
 Initial: VP
 Date: 19-10-2025
 Time: 11:37
-Activity: Pushing the file
+Activity: Vishnu Pushing the file
+
